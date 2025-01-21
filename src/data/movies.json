@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Avatar 2",
+    "year": 2022,
+    "rating": 9.8,
+    "genre": "fantasy",
+    "country": "USA",
+    "duration": 180
+  },
+  {
+    "id": 2,
+    "title": "Kelajak urushi",
+    "year": 2019,
+    "rating": 9.2,
+    "genre": "fantasy",
+    "country": "USA",
+    "duration": 132
+  },
+  {
+    "id": 3,
+    "title": "Mr Bin",
+    "year": 1998,
+    "rating": 9.6,
+    "genre": "komedia",
+    "country": "The UK",
+    "duration": 113
+  },
+  {
+    "id": 4,
+    "title": "Yovuzlik Maskani 1",
+    "year": 2015,
+    "rating": 7.3,
+    "genre": "fantasy",
+    "country": "USA",
+    "duration": 118
+  },
+  {
+    "id": 5,
+    "title": "Kalp atişi",
+    "year": 2017,
+    "rating": 6.8,
+    "genre": "love",
+    "country": "Turkey",
+    "duration": 93
+  },
+  {
+    "id": 6,
+    "title": "Yovuzlik Maskani 6",
+    "year": 2023,
+    "rating": 8.1,
+    "genre": "fantasy",
+    "country": "USA",
+    "duration": 112
+  },
+  {
+    "id": 7,
+    "title": "Non isi",
+    "year": 2008,
+    "rating": 7.8,
+    "genre": "holol mehnat",
+    "country": "Korean",
+    "duration": 142
+  },
+  {
+    "id": 8,
+    "title": "Matritsa 1",
+    "year": 2012,
+    "rating": 5.9,
+    "genre": "fantasy",
+    "country": "USA",
+    "duration": 109
+  },
+  {
+    "id": 9,
+    "title": "Yovuzlik Maskani 4",
+    "year": 2018,
+    "rating": 8.7,
+    "genre": "fantasy",
+    "country": "USA",
+    "duration": 142
+  },
+  {
+    "id": 10,
+    "title": "Kelajak urushi 2",
+    "year": 2023,
+    "rating": 8.5,
+    "genre": "fantasy",
+    "country": "USA",
+    "duration": 137
+  },
+  {
+    "id": 11,
+    "title": "Avatar 1",
+    "year": 2019,
+    "rating": 7.2,
+    "genre": "fantasy",
+    "country": "USA",
+    "duration": 172
+  }
+]
